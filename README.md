@@ -1,0 +1,1 @@
+This is MedusaLearnsToCode's first git project!
